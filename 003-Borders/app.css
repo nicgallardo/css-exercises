@@ -1,0 +1,27 @@
+img {
+  max-width: 100%;
+}
+
+.redborder {
+  border-style: solid;
+  border-width: 10px;
+  border-color: red;
+}
+
+.blueborder {
+  border-style: dashed;
+  border-width: 10px;
+  border-color: blue;
+}
+
+.greenborder {
+  border-left-color: green;
+  border-left-style: solid;
+}
+.multi {
+ border-style: solid;
+ border-right-color: blue;
+ border-left-color: blue;
+ border-top-color: red;
+ border-bottom-color: red;
+}

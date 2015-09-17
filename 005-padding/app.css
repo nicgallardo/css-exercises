@@ -1,0 +1,29 @@
+div, section {
+  background: #222;
+  color: white;
+}
+
+.center {
+  width: 50%;
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+section {
+  margin: 0 auto;
+}
+
+.foo {
+  padding: 20px;
+}
+
+.center.special {
+  padding-left: 20px;
+}
+.center.special-alt {
+  padding: 50px;
+  padding-top: 20px;
+
+}

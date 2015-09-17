@@ -1,0 +1,39 @@
+p {
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.post {
+  border: 3px solid rgba(000,000,000,0.2);
+  padding: 10px;
+  max-width: 650px;
+}
+
+.post > h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.circle.full{
+  border-radius: 50%;
+  background-color: black;
+  height: 100px;
+  width: 100px;
+}
+
+.circle.outline {
+  border-radius: 50%;
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  border-style: solid;
+  border-color: black;
+}
+
+.post {
+  border-radius: 0px 3px 3px 3px;
+}
